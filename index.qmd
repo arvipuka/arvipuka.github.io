@@ -1,11 +1,15 @@
 ---
-title: "arvipuka.github.io"
+image: profile_photo.png
+about:
+  template: trestles
+  image-shape: rounded
+  image-width: 13em
+toc: false
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## About Me
 
-```{r}
-1 + 1
-```
+I make chemical systems work better. <br>
+Experienced in academic and industry contract research in biological and medicinal chemistry with a strong record of innovation. Currently pursuing a master of engineering degree in materials science and engineering at the University of Toronto with a special interest in advanced soft materials and entrepreneurship.
+
